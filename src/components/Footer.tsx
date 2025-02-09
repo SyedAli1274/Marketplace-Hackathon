@@ -194,7 +194,7 @@ export default function Footer() {
           <p>
             © 2021 - Blogy - Designed & Developed by{" "}
             <a href="#" className="text-[#272343] hover:underline">
-              Zakirsoft
+              Syed Ali
             </a>
           </p>
           <div className="mt-4 flex justify-center space-x-2 md:space-x-4">
